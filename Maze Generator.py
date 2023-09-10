@@ -1,3 +1,3 @@
 import maze generator program
 
-boooga booooooooooooooga
+make bicure
