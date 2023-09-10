@@ -1,3 +1,3 @@
 import maze generator program
 
-bo
+boooga booooooooooooooga
